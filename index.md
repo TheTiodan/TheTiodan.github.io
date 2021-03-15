@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Most recent work 
 
-[Project 1 Title](/sample_page)
+[Unreal Pinball](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
