@@ -4,7 +4,7 @@
 
 ### Most recent work 
 
-[Unreal Pinball](/sample_page)
+[Unreal Pinball](https://thetiodan.itch.io/tios-unreal-pinball)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
