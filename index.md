@@ -8,7 +8,7 @@
 <img src="images/Pinballgif.gif?raw=true"/>
 
 ---
-[Topdown Wave Survival made with Unreal](/pdf/sample_presentation.pdf)
+[Topdown Wave Survival made with Unreal](https://thetiodan.itch.io/tios-wave-survival)
 <img src="images/SurvivalGif.gif?raw=true"/>
 
 ---
