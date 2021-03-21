@@ -5,7 +5,7 @@
 ### Most recent work 
 
 [Unreal Pinball](https://thetiodan.itch.io/tios-unreal-pinball)
-<img src="images/PinballGameplay.jpg?raw=true"/>
+<img src="images/Pinballgif.gif?raw=true"/>
 ---
 [Topdown Wave Survival made with Unreal](/pdf/sample_presentation.pdf)
 <img src="images/Survival1.jpg?raw=true"/>
