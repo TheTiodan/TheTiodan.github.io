@@ -9,7 +9,7 @@
 
 ---
 [Topdown Wave Survival made with Unreal](/pdf/sample_presentation.pdf)
-<img src="images/Survival1.jpg?raw=true"/>
+<img src="images/SurvivalGif.gif?raw=true"/>
 
 ---
 [ArchVisDemo made with Unreal](http://example.com/)
