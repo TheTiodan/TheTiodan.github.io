@@ -12,7 +12,7 @@
 <img src="images/SurvivalGif.gif?raw=true"/>
 
 ---
-[ArchVizDemo made with Unreal](http://example.com/)
+[ArchVizDemo made with Unreal](https://thetiodan.itch.io/tios-archviz)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
