@@ -8,16 +8,16 @@
 <img src="images/PinballGameplay.jpg?raw=true"/>
 
 ---
-[Topdown Wave Survival](/pdf/sample_presentation.pdf)
+[Topdown Wave Survival made with Unreal](/pdf/sample_presentation.pdf)
 <img src="images/Survival1.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[ArchVisDemo made with Unreal](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Games made with Unity
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
