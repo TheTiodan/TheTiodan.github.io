@@ -1,5 +1,5 @@
 title: Timo Kleinschnitz # your name (or website title) here
-logo: "" # your photo (or logo) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hey I am Timo "Tiodan" Kleinschnitz, a self taught Game Designer! 
   Since I have started learning about game development and design a couple of months ago, I am bulding my own 
@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   This is a showcase of my most recent work.
    
   <br><br>
+
 
   
 theme: jekyll-theme-minimal
