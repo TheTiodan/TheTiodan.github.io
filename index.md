@@ -17,12 +17,12 @@
 
 ---
 
-### Games made with Unity
+### Games made with Unity (not yet uploaded to itch.io)
 
-- [PewPewLasers](http://example.com/)
-- [Blockodan](http://example.com/)
-- [Garden Defense](http://example.com/)
-- [NWZ](http://example.com/)
+- [PewPewLasers] which is a modern space invader clone, planned to be eventually released on mobile.
+- [Blockodan] which is a simple block breaker.
+- [Garden Defense] which is a plants vs zombies clone made with glitch game assets.
+- [NWZ]
 
 
 ---
