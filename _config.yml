@@ -1,17 +1,15 @@
 title: Timo Kleinschnitz # your name (or website title) here
 logo: "/images/Bild2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hey I am Timo "Tiodan" Kleinschnitz, a self taught Game Developer! 
-  Since I have started learning about game development a couple of months ago, I am bulding my own 
+  Hey I am Timo "Tiodan" Kleinschnitz, a self taught Game Designer! 
+  Since I have started learning about game development and design a couple of months ago, I am bulding my own 
   projects with Unity and, most recently, Unreal Engine.
   I am looking forward to improving my skills and knowledge further and I am 
   always excited to keep learning new things.
   This is a showcase of my most recent work.
    
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
