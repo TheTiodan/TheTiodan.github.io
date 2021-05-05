@@ -19,9 +19,9 @@
 
 ### Games made with Unity (not yet uploaded to itch.io)
 
-- [PewPewLasers] which is a modern space invader clone, planned to be eventually released on mobile.
-- [Blockodan] which is a simple block breaker.
-- [Garden Defense] which is a plants vs zombies clone made with glitch game assets.
+- [PewPewLasers](https://github.com/TheTiodan/PewPewLasers) which is a modern space invader clone, planned to be eventually released on mobile.
+- [Blockodan](https://github.com/TheTiodan/Blockodan) which is a simple block breaker.
+- [Garden Defense](https://github.com/TheTiodan/Gardendefense) which is a plants vs zombies clone made with glitch game assets.
 - [NWZ]
 
 
